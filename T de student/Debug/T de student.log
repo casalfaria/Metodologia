@@ -1,0 +1,6 @@
+﻿  T de student.cpp
+C:\Users\CAFFP\OneDrive\Área de Trabalho\Mestrado\Pesquisa em computacao\Exercicios\T de student\Funcoes.h(9,20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\CAFFP\OneDrive\Área de Trabalho\Mestrado\Pesquisa em computacao\Exercicios\T de student\Funcoes.h(35,20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\CAFFP\OneDrive\Área de Trabalho\Mestrado\Pesquisa em computacao\Exercicios\T de student\Funcoes.h(70,20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\CAFFP\OneDrive\Área de Trabalho\Mestrado\Pesquisa em computacao\Exercicios\T de student\Funcoes.h(80,20): warning C4018: '<': incompatibilidade de signed/unsigned
+  T de student.vcxproj -> C:\Users\CAFFP\OneDrive\Área de Trabalho\Mestrado\Pesquisa em computacao\Exercicios\T de student\Debug\T de student.exe
